@@ -26,5 +26,5 @@ ll product(string x,string y)
 }
 int main()
 {
-    cout<<product("123456","123456");
+    cout<<product("3245","1243");
 }
